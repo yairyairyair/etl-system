@@ -1,0 +1,6 @@
+MONGO_ENDPOINT = 'localhost'
+MONGO_PORT = 27017
+
+DB_NAME = 'etl'
+PATIENTS_COLLECTION_NAME = 'patients'
+TREATMENTS_COLLECTION_NAME = 'treatments'
